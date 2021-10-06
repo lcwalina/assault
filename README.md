@@ -1,4 +1,3 @@
-ssault
 A simple CLI load testing tool.
 ## Installation
 Install using `pip`:
